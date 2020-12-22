@@ -1,4 +1,4 @@
-# Freshness-evaluation-of-spinach
+# Predicting sensory evaluation of spinach freshness using machine learning model and digital images
 
 This repository contains code and data related to the following manuscript:
 
